@@ -1,0 +1,171 @@
+<style type="text/css">
+
+body {
+	font: 10px sans-serif;
+	font-family: helvetica, arial;
+}
+
+div {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 10pt;
+	text-align: center;
+}
+
+.header {
+	font-size: 12pt;
+	text-align: center;
+}
+
+.header h1 {
+	margin: 20px;
+}
+
+.header div {
+	font-size: 10pt;
+}	
+
+circle:hover {
+	fill-opacity: 0.2;
+}
+
+/* circle tooltip for crime */
+#tooltip {
+	position: absolute;
+	width: 180px;
+	height: auto;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid black;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+/* 
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+ */
+	pointer-events: none;
+}
+
+#tooltip.hidden {
+	display: none;
+}
+
+#tooltip p {
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+/* map tooltip for median income */
+#tooltip_map {
+	position: absolute;
+	width: 180px;
+	height: auto;
+	padding: 10px;
+	background-color: white;
+	border: 1px solid black;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+/* 
+	-webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	-moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+	box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+ */
+	pointer-events: none;
+}
+
+#tooltip_map.hidden {
+	display: none;
+}
+
+#tooltip_map p {
+	margin: 0;
+	font-family: sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+}
+
+
+
+
+form {
+ position: absolute;
+ right: 185px;
+ top: 455px;
+ font-family: sans-serif;
+ font-size: 15px;
+}
+
+form label input {
+	margin-bottom: 5px;
+}
+
+
+
+/* 
+.slider {
+	position:absolute;
+	top: 700px;
+	right:350px;
+	font-size:18px;
+	color:#111;
+}
+ */
+
+/* style the topoJson elements */
+/* 
+path {
+	stroke-linejoin: round;
+}
+
+.land { 
+	fill: #ccc;
+}
+
+.states {
+	fill: none;
+	stroke: #fff;
+}
+ */
+
+
+path {
+	stroke: white;
+	stroke-width: 1;
+	fill: none;
+}
+path:hover {
+	stroke: while;
+	stroke-width: 2;
+	fill-opacity: 0.9;
+}
+
+/* 
+.axis {
+	shape-rendering: crispEdges;
+}
+
+.x.axis line {
+	stroke: lightgrey;
+}
+
+.x.axis .minor {
+	stroke-opacity: .5;
+}
+
+.x.axis path {
+	display: none;
+}
+
+.y.axis line, .y.axis path {
+	fill: none;
+	stroke: #000;
+}
+ */
+ 
+
+</style>
