@@ -1,0 +1,365 @@
+state	year	medianIncome
+Alabama	2007	40052
+Alaska	2007	61766
+Arizona	2007	48609
+Arkansas	2007	37555
+California	2007	58361
+Colorado	2007	54262
+Connecticut	2007	65496
+Delaware	2007	55303
+District of Columbia	2007	52187
+Florida	2007	46602
+Georgia	2007	48540
+Hawaii	2007	62543
+Idaho	2007	44901
+Illinois	2007	53745
+Indiana	2007	47034
+Iowa	2007	46399
+Kansas	2007	46669
+Kentucky	2007	40138
+Louisiana	2007	40160
+Maine	2007	45211
+Maryland	2007	66873
+Massachusetts	2007	61785
+Michigan	2007	48642
+Minnesota	2007	55616
+Mississippi	2007	35632
+Missouri	2007	44545
+Montana	2007	42425
+Nebraska	2007	46954
+Nevada	2007	53753
+New Hampshire	2007	61459
+New Jersey	2007	66509
+New Mexico	2007	41042
+New York	2007	52944
+North Carolina	2007	43867
+North Dakota	2007	43442
+Ohio	2007	46296
+Oklahoma	2007	40371
+Oregon	2007	47385
+Pennsylvania	2007	47913
+Rhode Island	2007	54060
+South Carolina	2007	42405
+South Dakota	2007	43586
+Tennessee	2007	41821
+Texas	2007	46248
+Utah	2007	53324
+Vermont	2007	49382
+Virginia	2007	58378
+Washington	2007	53940
+West Virginia	2007	36088
+Wisconsin	2007	50309
+Wyoming	2007	50009
+Puerto Rico	2007	18191
+Alabama	2008	42131
+Alaska	2008	66293
+Arizona	2008	51124
+Arkansas	2008	39127
+California	2008	61154
+Colorado	2008	56574
+Connecticut	2008	68411
+Delaware	2008	57270
+District of Columbia	2008	56428
+Florida	2008	48637
+Georgia	2008	50549
+Hawaii	2008	66034
+Idaho	2008	47331
+Illinois	2008	55935
+Indiana	2008	48675
+Iowa	2008	48585
+Kansas	2008	49189
+Kentucky	2008	41763
+Louisiana	2008	42634
+Maine	2008	46807
+Maryland	2008	70005
+Massachusetts	2008	64684
+Michigan	2008	49694
+Minnesota	2008	57795
+Mississippi	2008	37404
+Missouri	2008	46408
+Montana	2008	44042
+Nebraska	2008	49231
+Nevada	2008	56348
+New Hampshire	2008	63989
+New Jersey	2008	69674
+New Mexico	2008	43202
+New York	2008	55401
+North Carolina	2008	46107
+North Dakota	2008	45390
+Ohio	2008	48023
+Oklahoma	2008	42541
+Oregon	2008	49863
+Pennsylvania	2008	50272
+Rhode Island	2008	55327
+South Carolina	2008	44326
+South Dakota	2008	45542
+Tennessee	2008	43662
+Texas	2008	49078
+Utah	2008	56484
+Vermont	2008	51704
+Virginia	2008	61044
+Washington	2008	57234
+West Virginia	2008	37870
+Wisconsin	2008	52249
+Wyoming	2008	53096
+Puerto Rico	2008	18610
+Alabama	2009	41216
+Alaska	2009	64635
+Arizona	2009	50296
+Arkansas	2009	38542
+California	2009	60392
+Colorado	2009	56222
+Connecticut	2009	67721
+Delaware	2009	57618
+District of Columbia	2009	56519
+Florida	2009	47450
+Georgia	2009	49466
+Hawaii	2009	64661
+Idaho	2009	46183
+Illinois	2009	55222
+Indiana	2009	47465
+Iowa	2009	48052
+Kansas	2009	48394
+Kentucky	2009	41197
+Louisiana	2009	42167
+Maine	2009	46541
+Maryland	2009	69475
+Massachusetts	2009	64496
+Michigan	2009	48700
+Minnesota	2009	57007
+Mississippi	2009	36796
+Missouri	2009	46005
+Montana	2009	43089
+Nebraska	2009	47995
+Nevada	2009	55585
+New Hampshire	2009	63033
+New Jersey	2009	68981
+New Mexico	2009	42742
+New York	2009	55233
+North Carolina	2009	45069
+North Dakota	2009	45140
+Ohio	2009	47144
+Oklahoma	2009	41861
+Oregon	2009	49033
+Pennsylvania	2009	49737
+Rhode Island	2009	55569
+South Carolina	2009	43572
+South Dakota	2009	44828
+Tennessee	2009	42943
+Texas	2009	48199
+Utah	2009	55642
+Vermont	2009	51284
+Virginia	2009	60316
+Washington	2009	56384
+West Virginia	2009	37356
+Wisconsin	2009	51569
+Wyoming	2009	51990
+Puerto Rico	2009	18627
+Alabama	2010	42081
+Alaska	2010	66521
+Arizona	2010	50448
+Arkansas	2010	39267
+California	2010	60883
+Colorado	2010	56456
+Connecticut	2010	67740
+Delaware	2010	57599
+District of Columbia	2010	58526
+Florida	2010	47661
+Georgia	2010	49347
+Hawaii	2010	66420
+Idaho	2010	46423
+Illinois	2010	55735
+Indiana	2010	47697
+Iowa	2010	48872
+Kansas	2010	49424
+Kentucky	2010	41576
+Louisiana	2010	43445
+Maine	2010	46933
+Maryland	2010	70647
+Massachusetts	2010	64509
+Michigan	2010	48432
+Minnesota	2010	57243
+Mississippi	2010	37881
+Missouri	2010	46262
+Montana	2010	43872
+Nebraska	2010	49342
+Nevada	2010	55726
+New Hampshire	2010	63277
+New Jersey	2010	69811
+New Mexico	2010	43820
+New York	2010	55603
+North Carolina	2010	45570
+North Dakota	2010	46781
+Ohio	2010	47358
+Oklahoma	2010	42979
+Oregon	2010	49260
+Pennsylvania	2010	50398
+Rhode Island	2010	54902
+South Carolina	2010	43939
+South Dakota	2010	46369
+Tennessee	2010	43314
+Texas	2010	49646
+Utah	2010	56330
+Vermont	2010	51841
+Virginia	2010	61406
+Washington	2010	57244
+West Virginia	2010	38380
+Wisconsin	2010	51598
+Wyoming	2010	53802
+Puerto Rico	2010	18791
+Alabama	2011	42934
+Alaska	2011	69014
+Arizona	2011	50752
+Arkansas	2011	40149
+California	2011	61632
+Colorado	2011	57685
+Connecticut	2011	69243
+Delaware	2011	59317
+District of Columbia	2011	61835
+Florida	2011	47827
+Georgia	2011	49736
+Hawaii	2011	67116
+Idaho	2011	46890
+Illinois	2011	56576
+Indiana	2011	48393
+Iowa	2011	50451
+Kansas	2011	50594
+Kentucky	2011	42248
+Louisiana	2011	44086
+Maine	2011	47898
+Maryland	2011	72419
+Massachusetts	2011	65981
+Michigan	2011	48669
+Minnesota	2011	58476
+Mississippi	2011	38718
+Missouri	2011	47202
+Montana	2011	45324
+Nebraska	2011	50695
+Nevada	2011	55553
+New Hampshire	2011	64664
+New Jersey	2011	71180
+New Mexico	2011	44631
+New York	2011	56951
+North Carolina	2011	46291
+North Dakota	2011	49415
+Ohio	2011	48071
+Oklahoma	2011	44287
+Oregon	2011	49850
+Pennsylvania	2011	51651
+Rhode Island	2011	55975
+South Carolina	2011	44587
+South Dakota	2011	48010
+Tennessee	2011	43989
+Texas	2011	50920
+Utah	2011	57783
+Vermont	2011	53422
+Virginia	2011	63302
+Washington	2011	58890
+West Virginia	2011	39550
+Wisconsin	2011	52374
+Wyoming	2011	56380
+Puerto Rico	2011	19122
+Alabama	2012	43160
+Alaska	2012	69917
+Arizona	2012	50256
+Arkansas	2012	40531
+California	2012	61400
+Colorado	2012	58244
+Connecticut	2012	69519
+Delaware	2012	60119
+District of Columbia	2012	64267
+Florida	2012	47309
+Georgia	2012	49604
+Hawaii	2012	67492
+Idaho	2012	47015
+Illinois	2012	56853
+Indiana	2012	48374
+Iowa	2012	51129
+Kansas	2012	51273
+Kentucky	2012	42610
+Louisiana	2012	44673
+Maine	2012	48219
+Maryland	2012	72999
+Massachusetts	2012	66658
+Michigan	2012	48471
+Minnesota	2012	59126
+Mississippi	2012	38882
+Missouri	2012	47333
+Montana	2012	45456
+Nebraska	2012	51381
+Nevada	2012	54083
+New Hampshire	2012	64925
+New Jersey	2012	71637
+New Mexico	2012	44886
+New York	2012	57683
+North Carolina	2012	46450
+North Dakota	2012	51641
+Ohio	2012	48246
+Oklahoma	2012	44891
+Oregon	2012	50036
+Pennsylvania	2012	52267
+Rhode Island	2012	56102
+South Carolina	2012	44623
+South Dakota	2012	49091
+Tennessee	2012	44140
+Texas	2012	51563
+Utah	2012	58164
+Vermont	2012	54168
+Virginia	2012	63636
+Washington	2012	59374
+West Virginia	2012	40400
+Wisconsin	2012	52627
+Wyoming	2012	56573
+Puerto Rico	2012	19515
+Alabama	2013	43253
+Alaska	2013	70760
+Arizona	2013	49774
+Arkansas	2013	40768
+California	2013	61094
+Colorado	2013	58433
+Connecticut	2013	69461
+Delaware	2013	59878
+District of Columbia	2013	65830
+Florida	2013	46956
+Georgia	2013	49179
+Hawaii	2013	67402
+Idaho	2013	46767
+Illinois	2013	56797
+Indiana	2013	48248
+Iowa	2013	51843
+Kansas	2013	51332
+Kentucky	2013	43036
+Louisiana	2013	44874
+Maine	2013	48453
+Maryland	2013	73538
+Massachusetts	2013	66866
+Michigan	2013	48411
+Minnesota	2013	59836
+Mississippi	2013	39031
+Missouri	2013	47380
+Montana	2013	46230
+Nebraska	2013	51672
+Nevada	2013	52800
+New Hampshire	2013	64916
+New Jersey	2013	71629
+New Mexico	2013	44927
+New York	2013	58003
+North Carolina	2013	46334
+North Dakota	2013	53741
+Ohio	2013	48308
+Oklahoma	2013	45339
+Oregon	2013	50229
+Pennsylvania	2013	52548
+Rhode Island	2013	56361
+South Carolina	2013	44779
+South Dakota	2013	49495
+Tennessee	2013	44298
+Texas	2013	51900
+Utah	2013	58821
+Vermont	2013	54267
+Virginia	2013	63907
+Washington	2013	59478
+West Virginia	2013	41043
+Wisconsin	2013	52413
+Wyoming	2013	57406
+Puerto Rico	2013	19624
